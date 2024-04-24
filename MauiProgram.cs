@@ -3,7 +3,6 @@ using Microsoft.Maui.Hosting;
 using Microsoft.Maui.Controls.Hosting;
 using MauiApp.Services;
 
-// Assuming "MyMauiApp" is the namespace of your project
 namespace MyMauiApp
 {
     public static class MauiProgram
